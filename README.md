@@ -8,10 +8,9 @@
 
 *🚀 Transforming natural language queries into intelligent actions through AI-powered processing*
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.12+-blue?style=flat-square&logo=python)](https://python.org)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-green?style=flat-square&logo=openai)](https://openai.com)
 [![Streamlit](https://img.shields.io/badge/Streamlit-UI-red?style=flat-square&logo=streamlit)](https://streamlit.io)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
 </div>
 
@@ -208,13 +207,6 @@ We welcome contributions!
 4. ✅ Add comprehensive tests
 5. 📝 Submit a pull request
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
 
 <div align="center">
 
@@ -224,4 +216,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-*Made with ❤️ by the IntelliFlow team*
+*Made with ❤️ by the IntelliFlow *
