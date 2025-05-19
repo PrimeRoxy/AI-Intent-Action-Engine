@@ -4,7 +4,7 @@
 
 ![IntelliFlow Logo](https://img.shields.io/badge/IntelliFlow-AI%20Powered-blue?style=for-the-badge&logo=brain&logoColor=white)
 
-**Repository:** `ai-intent-action-engine`
+**Repository:** `AI-Intent-Action-Engine`
 
 *🚀 Transforming natural language queries into intelligent actions through AI-powered processing*
 
