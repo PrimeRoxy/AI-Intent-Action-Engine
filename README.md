@@ -212,7 +212,7 @@ We welcome contributions!
 
 ### 🚀 Ready to transform your queries into actions?
 
-**[Get Started](#-quick-start)** • **[View Demo](demo)** • **[Documentation](docs)** • **[Support](issues)**
+**[Get Started](#-quick-start)** 
 
 ---
 
